@@ -5,6 +5,16 @@ Type the following in the terminal
 
 `git clone https://github.com/mstxq17/dbLeakscan` /opt/dbLeakscan
 
+the fllowing python module should be installed:
+
+import requests
+
+import threading
+
+import re
+
+import sys
+
 # Usage:
 `python dbLeakscan.py [url] [thread_number] [time_out]`
 
