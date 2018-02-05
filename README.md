@@ -2,6 +2,7 @@
 this scanner try to scan some dbbak or ctf #源码泄露
 # Installation:
 Type the following in the terminal
+
 `git clone https://github.com/mstxq17/dbLeakscan` /opt/dbLeakscan
 
 # Usage:
